@@ -38,7 +38,3 @@ Designed to help workshops manage customers, vehicles, mechanics, services, and 
 - Docker and containerization
 - TypeORM
 - Cisco networking
-
-### Reach me
-
-[LinkedIn](TU_LINKEDIN) · [Email](TU_EMAIL)
