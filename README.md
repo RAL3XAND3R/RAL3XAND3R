@@ -6,10 +6,6 @@ I work mainly with **Node.js + NestJS + TypeScript** for backend development, an
 
 I enjoy understanding how things work behind the scenes and improving my problem-solving skills by building and working on real projects.
 
-### What I'm working on
-
-**Focus Bear** — Backend development as an intern, working with `NestJS` · `Node.js` · `PostgreSQL` · `TypeORM` · `Docker`
-
 ### Projects
 
 **AutoTrack** — Vehicle management system for automotive workshops.
