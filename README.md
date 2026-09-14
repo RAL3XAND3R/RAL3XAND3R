@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Rony 👋
 
-<!--
-**RAL3XAND3R/RAL3XAND3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student from Santa Ana, El Salvador — currently working as a Backend Intern at Focus Bear.
 
-Here are some ideas to get you started:
+I work mainly with **Node.js + NestJS + TypeScript** for backend development, and I'm currently learning more about **REST APIs, PostgreSQL, Docker, TypeORM, and backend architecture**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy understanding how things work behind the scenes and improving my problem-solving skills by building and working on real projects.
+
+**Currently learning:** Backend development, PostgreSQL, Docker, TypeORM, and networking with Cisco CCNA.
+
+### What I'm working on
+
+**Focus Bear** — Backend development as an intern, working with `NestJS` · `Node.js` · `PostgreSQL` · `TypeORM` · `Docker`
+
+### Projects
+
+**AutoTrack** — Vehicle management system for automotive workshops.
+
+Designed to help workshops manage customers, vehicles, mechanics, services, and vehicle history.
+
+`Python` · `FastAPI` · `PostgreSQL` · `Supabase`
+
+### Stack
+
+**Backend:** Node.js · NestJS · TypeScript · Python · FastAPI  
+**Frontend:** Angular · React  
+**Database:** PostgreSQL · Supabase  
+**Tools:** Git · GitHub · Docker · TypeORM  
+**Networking:** Cisco CCNA
+
+### Currently learning
+
+- Backend architecture
+- REST API development
+- PostgreSQL and database design
+- Docker and containerization
+- TypeORM
+- Cisco networking
