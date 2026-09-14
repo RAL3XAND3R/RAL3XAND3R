@@ -6,8 +6,6 @@ I work mainly with **Node.js + NestJS + TypeScript** for backend development, an
 
 I enjoy understanding how things work behind the scenes and improving my problem-solving skills by building and working on real projects.
 
-**Currently learning:** Backend development, PostgreSQL, Docker, TypeORM, and networking with Cisco CCNA.
-
 ### What I'm working on
 
 **Focus Bear** — Backend development as an intern, working with `NestJS` · `Node.js` · `PostgreSQL` · `TypeORM` · `Docker`
@@ -22,10 +20,14 @@ Designed to help workshops manage customers, vehicles, mechanics, services, and 
 
 ### Stack
 
-**Backend:** Node.js · NestJS · TypeScript · Python · FastAPI  
-**Frontend:** Angular · React  
-**Database:** PostgreSQL · Supabase  
-**Tools:** Git · GitHub · Docker · TypeORM  
+**Backend:** Node.js · NestJS · TypeScript · Python · FastAPI
+
+**Frontend:** Angular · React
+
+**Database:** PostgreSQL · Supabase
+
+**Tools:** Git · GitHub · Docker · TypeORM
+
 **Networking:** Cisco CCNA
 
 ### Currently learning
@@ -36,3 +38,7 @@ Designed to help workshops manage customers, vehicles, mechanics, services, and 
 - Docker and containerization
 - TypeORM
 - Cisco networking
+
+### Reach me
+
+[LinkedIn](TU_LINKEDIN) · [Email](TU_EMAIL)
